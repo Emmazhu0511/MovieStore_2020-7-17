@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{EF93F241-2F22-4016-8969-84416F42099F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieStore.MVC/Views/_ViewStart.cshtml">
+    <Files>
+      <File FileName="MovieStore.Core/RepositoryInterfaces/IMovieRepository.cs" Line="1" Column="1" />
+      <File FileName="MovieStore.Infrastructure/Repository/GenreRepository.cs" Line="14" Column="1" />
+      <File FileName="MovieStore.Infrastructure/Services/GenreService.cs" Line="15" Column="1" />
+      <File FileName="MovieStore.MVC/Controllers/GenresController.cs" Line="24" Column="1" />
+      <File FileName="MovieStore.Infrastructure/Repository/MovieRepository.cs" Line="20" Column="19" />
+      <File FileName="MovieStore.Infrastructure/Repository/EfRepository.cs" Line="1" Column="1" />
+      <File FileName="MovieStore.MVC/Startup.cs" Line="35" Column="1" />
+      <File FileName="MovieStore.Infrastructure/Data/MovieStoreDbContext.cs" Line="17" Column="1" />
+      <File FileName="MovieStore.MVC/Views/_ViewStart.cshtml" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieStore" expanded="True">
+            <Node name="MovieStore.Core" expanded="True">
+              <Node name="RepositoryInterfaces" expanded="True" />
+              <Node name="ServiceInterfaces" expanded="True" />
+            </Node>
+            <Node name="MovieStore.Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MovieStore.MVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="_ViewStart.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/Services/MovieService.cs" relfile="MovieStore.Infrastructure/Services/MovieService.cs" line="13" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.MVC/Controllers/MoviesController.cs" relfile="MovieStore.MVC/Controllers/MoviesController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/Repository/MovieRepository.cs" relfile="MovieStore.Infrastructure/Repository/MovieRepository.cs" line="12" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.MVC/Controllers/MoviesController.cs" relfile="MovieStore.MVC/Controllers/MoviesController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/Repository/MovieRepository.cs" relfile="MovieStore.Infrastructure/Repository/MovieRepository.cs" line="21" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.MVC/Controllers/MoviesController.cs" relfile="MovieStore.MVC/Controllers/MoviesController.cs" line="65" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/Repository/GenreRepository.cs" relfile="MovieStore.Infrastructure/Repository/GenreRepository.cs" line="12" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.MVC/Controllers/GenresController.cs" relfile="MovieStore.MVC/Controllers/GenresController.cs" line="18" column="1" />
+      <Breakpoint file="/Users/weizhu/Projects/MovieStore/MovieStore.MVC/Controllers/GenresController.cs" relfile="MovieStore.MVC/Controllers/GenresController.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MovieStore.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

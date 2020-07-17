@@ -1,0 +1,23 @@
+﻿@model List<Movie>
+
+
+@{
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Budget</td>
+        </tr>
+        @foreach (var item in Model) {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Title</td>
+                <td>@item.Budget</td>
+            </tr>
+        }
+    </thead>
+</table>

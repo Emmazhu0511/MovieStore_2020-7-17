@@ -1,0 +1,9 @@
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/bin/Debug/netstandard2.1/MovieStore.Core.deps.json
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/bin/Debug/netstandard2.1/MovieStore.Core.dll
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/bin/Debug/netstandard2.1/MovieStore.Core.pdb
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/obj/Debug/netstandard2.1/MovieStore.Core.AssemblyInfoInputs.cache
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/obj/Debug/netstandard2.1/MovieStore.Core.AssemblyInfo.cs
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/obj/Debug/netstandard2.1/MovieStore.Core.csproj.CoreCompileInputs.cache
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/obj/Debug/netstandard2.1/MovieStore.Core.dll
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/obj/Debug/netstandard2.1/MovieStore.Core.pdb
+/Users/weizhu/Projects/MovieStore/MovieStore.Core/obj/Debug/netstandard2.1/MovieStore.Core.csprojAssemblyReference.cache

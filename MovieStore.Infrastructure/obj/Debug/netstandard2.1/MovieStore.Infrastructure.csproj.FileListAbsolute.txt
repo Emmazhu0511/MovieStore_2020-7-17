@@ -1,0 +1,12 @@
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/bin/Debug/netstandard2.1/MovieStore.Infrastructure.deps.json
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/bin/Debug/netstandard2.1/MovieStore.Infrastructure.dll
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/bin/Debug/netstandard2.1/MovieStore.Infrastructure.pdb
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/bin/Debug/netstandard2.1/MovieStore.Core.dll
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/bin/Debug/netstandard2.1/MovieStore.Core.pdb
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/obj/Debug/netstandard2.1/MovieStore.Infrastructure.csprojAssemblyReference.cache
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/obj/Debug/netstandard2.1/MovieStore.Infrastructure.AssemblyInfoInputs.cache
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/obj/Debug/netstandard2.1/MovieStore.Infrastructure.AssemblyInfo.cs
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/obj/Debug/netstandard2.1/MovieStore.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/obj/Debug/netstandard2.1/MovieStore.Infrastructure.csproj.CopyComplete
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/obj/Debug/netstandard2.1/MovieStore.Infrastructure.dll
+/Users/weizhu/Projects/MovieStore/MovieStore.Infrastructure/obj/Debug/netstandard2.1/MovieStore.Infrastructure.pdb
